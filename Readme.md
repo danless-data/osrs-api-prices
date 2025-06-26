@@ -90,7 +90,6 @@ All endpoints use **GET** and return JSON.
   "data": {
    "2":    { "high": 2500,    "highTime": 1670000000,    "low": 2450,    "lowTime": 1670001000 },
    "4151": { "high": 1250000, "highTime": 1670000500,    "low": 1245000, "lowTime": 1670000800 }
-   // ...
   }
 }
 ```
@@ -122,7 +121,6 @@ All endpoints use **GET** and return JSON.
    "limit": 8,
    "icon": "3rd age amulet.png"
   }
-  // ...
 ]
 ```
 
@@ -150,7 +148,6 @@ All endpoints use **GET** and return JSON.
     "volume": 123,
     "timestamp": 1670000000
    }
-   // ...
   ]
 }
 ```
@@ -173,7 +170,6 @@ All endpoints use **GET** and return JSON.
     "volume": 500,
     "timestamp": 1669999200
    }
-   // ...
   ]
 }
 ```
@@ -203,7 +199,6 @@ All endpoints use **GET** and return JSON.
     "highPriceVolume": 3,
     "lowPriceVolume": 1
    }
-   // ...
   ]
 }
 ```
