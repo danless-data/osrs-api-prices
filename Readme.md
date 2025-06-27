@@ -1,6 +1,6 @@
 # Old School RuneScape Real-Time Price API
 
-![Logo](https://imgur.com/STuOIzw)
+![Logo](https://i.imgur.com/STuOIzw.png)
 
 ## Table of Contents
 
